@@ -21,7 +21,7 @@ define('DB_NAME', 'shill_rihams');
 /** MySQL database username */
 define('DB_USER', 'shill_rihams');
 
-/** MySQL database password */
+/** MySQL database password */ 
 define('DB_PASSWORD', 'rihams123');
 
 /** MySQL hostname */
